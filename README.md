@@ -15,7 +15,7 @@ A collection of competitive programming solutions developed with an emphasis on 
 Each problem is documented using two files:
 
 - **Implementation (`.cpp`)** — the C++ solution.
-- **Analysis (`.md`)** — intuition, key observations, algorithm, correctness proof, complexity analysis, and implementation notes.
+- **Analysis ('.pdf')** — intuition, key observations, algorithm, correctness proof, complexity analysis, and implementation notes.
 
 Problems are organised primarily by difficulty rating.
 
